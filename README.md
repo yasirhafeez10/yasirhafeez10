@@ -52,19 +52,21 @@ Software Engineering Student | Data Analyst | Python Developer
 
 
 
-</p>
-
-
+<!-- FOLLOWERS + STARS (CLICKABLE) -->
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YasirHafeezSW010&style=for-the-badge&color=facc15"/>
+<a href="https://github.com/yasirhafeez10?tab=followers">
+<img src="https://img.shields.io/github/followers/yasirhafeez10?style=for-the-badge&color=facc15&label=Followers"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/YasirHafeezSW010?style=for-the-badge&color=facc15"/>
+<a href="https://github.com/yasirhafeez10?tab=repositories">
+<img src="https://img.shields.io/github/stars/yasirhafeez10?style=for-the-badge&color=facc15&label=Stars"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/YasirHafeezSW010?style=for-the-badge&color=facc15"/>
-
-</p>
-
+<a href="https://github.com/yasirhafeez10">
+<img src="https://komarev.com/ghpvc/?username=yasirhafeez10&style=for-the-badge&color=facc15"/>
+</a>
+p>
 
 ---
 
