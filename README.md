@@ -66,7 +66,7 @@ Software Engineering Student | Data Analyst | Python Developer
 <a href="https://github.com/yasirhafeez10">
 <img src="https://komarev.com/ghpvc/?username=yasirhafeez10&style=for-the-badge&color=facc15"/>
 </a>
-p>
+
 
 ---
 
