@@ -18,7 +18,7 @@ Software Engineering Student | Data Analyst | Python Developer
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yasirhafeez">
+<a href="linkedin.com/in/yasir-hafeez-6170b72b2">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
