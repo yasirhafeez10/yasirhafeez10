@@ -26,7 +26,7 @@ Software Engineering Student | Data Analyst | Python Developer
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YasirHafeezSW010">
+<a href="[https://github.com/YasirHafeezSW010](https://github.com/yasirhafeez10)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
