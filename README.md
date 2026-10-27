@@ -1,8 +1,7 @@
+<!-- ANIMATED INTRO - Yasir version, inspired by friend header effect, Yasir content only -->
 <div align="center">
 
-# Yasir Hafeez
-
-**Software Engineering Student | Aspiring Data Analyst | Python, SQL & Power BI**
+<img src="intro.svg" alt="Yasir Hafeez - Software Engineering Student and Aspiring Data Analyst" width="100%"/>
 
 <br/>
 
@@ -23,7 +22,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
