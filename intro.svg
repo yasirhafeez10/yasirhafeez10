@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Yasir Hafeez - Software Engineering Student and Aspiring Data Analyst">
+  <defs>
+    <linearGradient id="yasir-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#0b1226"/>
+      <stop offset="1" stop-color="#0f2a33"/>
+    </linearGradient>
+    <linearGradient id="yasir-border" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="yasir-name" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="380" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#a5b4fc"/>
+      <stop offset="1" stop-color="#34d399"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="320 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="yasir-orb-a"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="yasir-orb-b"><stop offset="0" stop-color="#34d399" stop-opacity="0.30"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <pattern id="yasir-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#38bdf8" stroke-opacity="0.07" stroke-width="1"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="5s" repeatCount="indefinite"/>
+    </pattern>
+    <filter id="yasir-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="yasir-frame"><rect x="0" y="0" width="1200" height="420" rx="22"/></clipPath>
+    <clipPath id="yasir-t1"><rect x="84" y="288" width="0" height="30"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.04;0.1667;0.875;0.88;1" values="0;0;440;440;0;0"/></rect></clipPath>
+    <clipPath id="yasir-t2"><rect x="84" y="324" width="0" height="30"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.17;0.3333;0.875;0.88;1" values="0;0;440;440;0;0"/></rect></clipPath>
+    <clipPath id="yasir-t3"><rect x="84" y="360" width="0" height="30"><animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.375;0.5417;0.875;0.88;1" values="0;0;440;440;0;0"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#yasir-frame)">
+    <rect width="1200" height="420" fill="url(#yasir-bg)"/>
+    <rect width="1200" height="420" fill="url(#yasir-grid)"/>
+    <circle cx="200" cy="90" r="220" fill="url(#yasir-orb-a)"><animate attributeName="cx" values="200;330;200" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="320" r="240" fill="url(#yasir-orb-b)"><animate attributeName="cy" values="320;200;320" dur="11s" repeatCount="indefinite"/></circle>
+    <rect x="2" y="2" width="1196" height="416" rx="20" fill="none" stroke="url(#yasir-border)" stroke-width="2" stroke-opacity="0.7"/>
+    <text x="60" y="70" font-family="monospace" font-size="20" fill="#38bdf8">// hello, world</text>
+    <text x="58" y="135" font-family="Arial, sans-serif" font-size="62" font-weight="800" fill="url(#yasir-name)" filter="url(#yasir-glow)">Yasir Hafeez</text>
+    <text x="60" y="175" font-family="Arial, sans-serif" font-size="24" fill="#e2e8f0">Software Engineering Student · MUET</text>
+    <text x="60" y="205" font-family="Arial, sans-serif" font-size="22" fill="#38bdf8">Aspiring Data Analyst</text>
+    <text x="240" y="205" font-family="Arial, sans-serif" font-size="22" fill="#94a3b8">|</text>
+    <text x="260" y="205" font-family="Arial, sans-serif" font-size="22" fill="#34d399">Python · SQL · Power BI</text>
+    <rect x="60" y="260" width="480" height="130" rx="14" fill="#0a0f1e" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="80" cy="280" r="5" fill="#f87171"/><circle cx="100" cy="280" r="5" fill="#facc15"/><circle cx="120" cy="280" r="5" fill="#34d399"/>
+    <g clip-path="url(#yasir-t1)"><text x="84" y="310" font-family="monospace" font-size="19" fill="#e2e8f0"><tspan fill="#34d399">$ </tspan>whoami yasir-hafeez</text></g>
+    <g clip-path="url(#yasir-t2)"><text x="84" y="346" font-family="monospace" font-size="19" fill="#e2e8f0"><tspan fill="#34d399">$ </tspan>python analyze_data.py</text></g>
+    <g clip-path="url(#yasir-t3)"><text x="84" y="382" font-family="monospace" font-size="19" fill="#e2e8f0"><tspan fill="#34d399">$ </tspan>becoming "Data Analyst"</text></g>
+    <text x="700" y="70" font-family="monospace" font-size="16" letter-spacing="2" fill="#94a3b8">THE JOURNEY OF DATA</text>
+    <line x1="730" y1="130" x2="1130" y2="130" stroke="#334155" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="2s" repeatCount="indefinite"/></line>
+    <g font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+      <circle cx="730" cy="130" r="34" fill="#0b1226" stroke="#38bdf8" stroke-width="2"/><text x="730" y="135" fill="#e2e8f0">Python</text>
+      <circle cx="830" cy="130" r="34" fill="#0b1226" stroke="#22d3ee" stroke-width="2"/><text x="830" y="135" fill="#e2e8f0">SQL</text>
+      <circle cx="930" cy="130" r="34" fill="#0b1226" stroke="#34d399" stroke-width="2"/><text x="930" y="135" fill="#e2e8f0">Power BI</text>
+      <circle cx="1030" cy="130" r="34" fill="#0b1226" stroke="#a5b4fc" stroke-width="2"/><text x="1030" y="135" fill="#e2e8f0">Portfolio</text>
+      <circle cx="1130" cy="130" r="34" fill="#0b1226" stroke="#facc15" stroke-width="2"/><text x="1130" y="135" fill="#e2e8f0">Analyst</text>
+    </g>
+    <text x="700" y="200" font-family="Arial, sans-serif" font-size="18" fill="#e2e8f0">Python → SQL → Power BI → Portfolio → Data Analyst</text>
+    <rect x="700" y="230" width="440" height="80" rx="12" fill="#0a0f1e" stroke="#1e293b"/>
+    <text x="720" y="258" font-family="monospace" font-size="14" fill="#34d399">✓ COMPLETED</text>
+    <text x="720" y="288" font-family="Arial, sans-serif" font-size="16" fill="#e2e8f0">Data Cleaning · RFM Analysis · Smart Calculator</text>
+    <rect x="700" y="325" width="440" height="65" rx="12" fill="#0a0f1e" stroke="#1e293b"/>
+    <text x="720" y="352" font-family="monospace" font-size="14" fill="#38bdf8">▶ NOW BECOMING</text>
+    <text x="720" y="376" font-family="Arial, sans-serif" font-size="16" fill="#e2e8f0">Data Analyst · Power BI · Portfolio Projects</text>
+  </g>
+</svg>
